@@ -1,4 +1,4 @@
-# tokyo-olympics-data-engineering
+# Azure Tokyo Olympics Data Engineering Project
 I used Azure services to build this data engineering end-to-end project
 ![Screenshot 2024-03-26 003008](https://github.com/shrutirandive/tokyo-olympics-data-engineering/assets/54211989/d531dadd-d3eb-46ab-ace2-3aab7244d7e3)
 
